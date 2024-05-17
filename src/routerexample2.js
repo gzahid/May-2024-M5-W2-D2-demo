@@ -61,7 +61,7 @@ function Topics(){
           <Link to="cats">Cats</Link>
         </li>
         <li>
-          <Link to={"dogs"}>Dogs</Link>
+          <Link to="dogs">Dogs</Link>
         </li>
       </ul>
       <Outlet />
